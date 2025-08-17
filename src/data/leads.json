@@ -1,0 +1,227 @@
+[
+  {
+    "id": "1",
+    "name": "John Smith",
+    "company": "Acme Corp",
+    "email": "john.smith@acme.com",
+    "source": "Website",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "2",
+    "name": "Sarah Johnson",
+    "company": "TechStart Inc",
+    "email": "sarah.j@techstart.com",
+    "source": "Referral",
+    "score": 92,
+    "status": "contacted"
+  },
+  {
+    "id": "3",
+    "name": "Mike Chen",
+    "company": "Global Solutions",
+    "email": "m.chen@globalsol.com",
+    "source": "Cold Call",
+    "score": 78,
+    "status": "qualified"
+  },
+  {
+    "id": "4",
+    "name": "Emily Davis",
+    "company": "Innovation Labs",
+    "email": "emily.davis@innovlabs.com",
+    "source": "LinkedIn",
+    "score": 88,
+    "status": "new"
+  },
+  {
+    "id": "5",
+    "name": "Robert Wilson",
+    "company": "Future Systems",
+    "email": "r.wilson@futuresys.com",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "contacted"
+  },
+  {
+    "id": "6",
+    "name": "Lisa Anderson",
+    "company": "Smart Tech",
+    "email": "lisa.a@smarttech.com",
+    "source": "Website",
+    "score": 73,
+    "status": "unqualified"
+  },
+  {
+    "id": "7",
+    "name": "David Brown",
+    "company": "NextGen Corp",
+    "email": "d.brown@nextgen.com",
+    "source": "Referral",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "8",
+    "name": "Jennifer Taylor",
+    "company": "Digital Dynamics",
+    "email": "j.taylor@digitaldyn.com",
+    "source": "Cold Call",
+    "score": 81,
+    "status": "new"
+  },
+  {
+    "id": "9",
+    "name": "Chris Martinez",
+    "company": "Cloud Nine",
+    "email": "c.martinez@cloudnine.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "contacted"
+  },
+  {
+    "id": "10",
+    "name": "Amanda White",
+    "company": "Synergy Solutions",
+    "email": "a.white@synergysol.com",
+    "source": "Trade Show",
+    "score": 76,
+    "status": "new"
+  },
+  {
+    "id": "11",
+    "name": "Alex Garcia",
+    "company": "Alpha Industries",
+    "email": "alex.garcia@alphaindustries.com",
+    "source": "Website",
+    "score": 82,
+    "status": "new"
+  },
+  {
+    "id": "12",
+    "name": "Maria Rodriguez",
+    "company": "Beta Technologies",
+    "email": "maria.rodriguez@betatech.com",
+    "source": "Referral",
+    "score": 91,
+    "status": "contacted"
+  },
+  {
+    "id": "13",
+    "name": "James Lee",
+    "company": "Gamma Enterprises",
+    "email": "james.lee@gammaent.com",
+    "source": "LinkedIn",
+    "score": 79,
+    "status": "qualified"
+  },
+  {
+    "id": "14",
+    "name": "Jessica Walker",
+    "company": "Delta Systems",
+    "email": "jessica.walker@deltasys.com",
+    "source": "Cold Call",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "15",
+    "name": "Michael Hall",
+    "company": "Epsilon Solutions",
+    "email": "michael.hall@epsilonsol.com",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "contacted"
+  },
+  {
+    "id": "16",
+    "name": "Ashley Allen",
+    "company": "Zeta Corp",
+    "email": "ashley.allen@zetacorp.com",
+    "source": "Website",
+    "score": 74,
+    "status": "unqualified"
+  },
+  {
+    "id": "17",
+    "name": "William Young",
+    "company": "Eta Innovations",
+    "email": "william.young@etainnov.com",
+    "source": "Referral",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "18",
+    "name": "Stephanie King",
+    "company": "Theta Labs",
+    "email": "stephanie.king@thetalabs.com",
+    "source": "LinkedIn",
+    "score": 80,
+    "status": "new"
+  },
+  {
+    "id": "19",
+    "name": "Daniel Wright",
+    "company": "Iota Dynamics",
+    "email": "daniel.wright@iotadyn.com",
+    "source": "Cold Call",
+    "score": 85,
+    "status": "contacted"
+  },
+  {
+    "id": "20",
+    "name": "Nicole Lopez",
+    "company": "Kappa Tech",
+    "email": "nicole.lopez@kappatech.com",
+    "source": "Trade Show",
+    "score": 77,
+    "status": "new"
+  },
+  {
+    "id": "21",
+    "name": "Matthew Hill",
+    "company": "Lambda Solutions",
+    "email": "matthew.hill@lambdasol.com",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "22",
+    "name": "Rachel Scott",
+    "company": "Mu Systems",
+    "email": "rachel.scott@musys.com",
+    "source": "Referral",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": "23",
+    "name": "Andrew Green",
+    "company": "Nu Enterprises",
+    "email": "andrew.green@nuent.com",
+    "source": "LinkedIn",
+    "score": 81,
+    "status": "new"
+  },
+  {
+    "id": "24",
+    "name": "Lauren Adams",
+    "company": "Xi Technologies",
+    "email": "lauren.adams@xitech.com",
+    "source": "Cold Call",
+    "score": 87,
+    "status": "contacted"
+  },
+  {
+    "id": "25",
+    "name": "Joshua Baker",
+    "company": "Omicron Corp",
+    "email": "joshua.baker@omicroncorp.com",
+    "source": "Trade Show",
+    "score": 75,
+    "status": "unqualified"
+  }
+]
