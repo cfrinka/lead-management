@@ -147,7 +147,7 @@ User Interaction → Update State → Save to localStorage → Restore on App Lo
 ### Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/cfrinka/lead-management
 cd take-home
 
 # Install dependencies
